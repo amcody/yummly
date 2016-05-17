@@ -1,0 +1,8 @@
+-Try to use at least two different classifiers
+-Use cross validation
+-Investigate your favorite classification 
+ *What meta parameters
+ *What metric does it optimize
+ *What is mathematical idea behind algorithm
+ *Why do you like classification method
+-Continue to explore and think about new features
